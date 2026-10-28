@@ -204,4 +204,13 @@ footer p {
     margin-bottom: 10px;
     line-height: 1.6;
   }
+
+  .about-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 15px auto;
+    border-radius: 10px;
+  }
 }
